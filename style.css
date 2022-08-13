@@ -1,0 +1,53 @@
+input[type=text]{
+    width:25%;
+      padding:12px 20px;
+      margin:8px 0;
+     border:1px solid black;
+      border-radius:6px;
+      background-color:white;
+      color:black;
+    }
+    input[type=tel]{
+    width:25%;
+      padding:12px 20px;
+      margin:8px 0;
+     border:1px solid black;
+      border-radius:6px;
+      background-color:white;
+      color:black;
+    }
+    input[type=date]{
+    width:25%;
+      padding:12px 20px;
+      margin:8px 0;
+     border:1px solid black;
+      border-radius:6px;
+      background-color:white;
+      color:black;
+    }
+    input[type=file]{
+        width:25%;
+          padding:12px 20px;
+          margin:8px 0;
+         border:1px solid black;
+          border-radius:6px;
+          background-color:white;
+          color:black;
+        }
+        input[type=button]{
+            width:25%;
+              padding:12px 20px;
+              margin:8px 0;
+             border:1px solid black;
+              border-radius:6px;
+              background-color:white;
+              color:black;
+            }
+            button{
+                background-color: green;
+                display: inline-block;
+                font-size: 16px;
+                cursor: pointer;
+                color: white;
+                border: none;
+            }
